@@ -1,0 +1,15 @@
+C:\GitHub\EventSourcing\EventSourcing.Application\bin\Debug\net7.0\EventSourcing.Application.deps.json
+C:\GitHub\EventSourcing\EventSourcing.Application\bin\Debug\net7.0\EventSourcing.Application.dll
+C:\GitHub\EventSourcing\EventSourcing.Application\bin\Debug\net7.0\EventSourcing.Application.pdb
+C:\GitHub\EventSourcing\EventSourcing.Application\bin\Debug\net7.0\EventSourcing.Domain.dll
+C:\GitHub\EventSourcing\EventSourcing.Application\bin\Debug\net7.0\EventSourcing.Domain.pdb
+C:\GitHub\EventSourcing\EventSourcing.Application\obj\Debug\net7.0\EventSourcing.Application.csproj.AssemblyReference.cache
+C:\GitHub\EventSourcing\EventSourcing.Application\obj\Debug\net7.0\EventSourcing.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\EventSourcing\EventSourcing.Application\obj\Debug\net7.0\EventSourcing.Application.AssemblyInfoInputs.cache
+C:\GitHub\EventSourcing\EventSourcing.Application\obj\Debug\net7.0\EventSourcing.Application.AssemblyInfo.cs
+C:\GitHub\EventSourcing\EventSourcing.Application\obj\Debug\net7.0\EventSourcing.Application.csproj.CoreCompileInputs.cache
+C:\GitHub\EventSourcing\EventSourcing.Application\obj\Debug\net7.0\EventSourcing.Application.csproj.CopyComplete
+C:\GitHub\EventSourcing\EventSourcing.Application\obj\Debug\net7.0\EventSourcing.Application.dll
+C:\GitHub\EventSourcing\EventSourcing.Application\obj\Debug\net7.0\refint\EventSourcing.Application.dll
+C:\GitHub\EventSourcing\EventSourcing.Application\obj\Debug\net7.0\EventSourcing.Application.pdb
+C:\GitHub\EventSourcing\EventSourcing.Application\obj\Debug\net7.0\ref\EventSourcing.Application.dll
